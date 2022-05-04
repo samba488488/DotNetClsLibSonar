@@ -1,0 +1,12 @@
+C:\Samba\SampleApplicationDev\math\bin\Debug\net6.0\math.deps.json
+C:\Samba\SampleApplicationDev\math\bin\Debug\net6.0\math.dll
+C:\Samba\SampleApplicationDev\math\bin\Debug\net6.0\math.pdb
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.csproj.AssemblyReference.cache
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.AssemblyInfoInputs.cache
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.AssemblyInfo.cs
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.csproj.CoreCompileInputs.cache
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.dll
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\refint\math.dll
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\math.pdb
+C:\Samba\SampleApplicationDev\math\obj\Debug\net6.0\ref\math.dll
